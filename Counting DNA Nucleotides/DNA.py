@@ -1,17 +1,18 @@
 import argparse
 
 parser = argparse.ArgumentParser()
-parser.add_argument('-d', '--DNA', type=str, default="")
+parser.add_argument('-f', '--file', type=str, default="")
 args = parser.parse_args()
 
-DNA_string = args.DNA
+
+t = open(args.file,"r").read()
 
 A_count = 0
 C_count = 0
 G_count = 0
 T_count = 0
 
-for nucleobase in DNA_string:
+for nucleobase in t:
     if nucleobase == "A":
         A_count += 1
     elif nucleobase == "C":
