@@ -1,4 +1,9 @@
-# Rosalind 
+
+<p align="center">
+  <img src="https://compeau.cbd.cmu.edu/wp-content/uploads/2016/08/rosalindlogo.jpg" width="200"/>
+</p>
+<h1 align=center>Solutions</h1>
+
 ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/ShaswataRoy/Rosalind)
 ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/ShaswataRoy/Rosalind/biopython)
 
