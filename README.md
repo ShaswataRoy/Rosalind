@@ -24,4 +24,7 @@ You can checkout my profile here: https://rosalind.info/users/Shaswata/
 - REVC: Complementing a Strand of DNA [Problem](https://rosalind.info/problems/revc/) [Solution](https://github.com/ShaswataRoy/Rosalind/tree/main/Complementing%20a%20Strand%20of%20DNA)
 - FIB: Rabbits and Recurrence Relations [Problem](https://rosalind.info/problems/fib/) [Solution](https://github.com/ShaswataRoy/Rosalind/tree/main/Rabbits%20and%20Recurrence%20Relations)
 - GC: Computing GC Content [Problem](https://rosalind.info/problems/gc/) [Solution](https://github.com/ShaswataRoy/Rosalind/tree/main/Computing%20GC%20Content)
+- HAMM: Counting Point Mutations [Problem](https://rosalind.info/problems/hamm/) [Solution](https://github.com/ShaswataRoy/Rosalind/tree/main/Counting%20Point%20Mutations)
+- IPRB: Mendel's First Law [Problem](https://rosalind.info/problems/iprb/) [Solution](https://github.com/ShaswataRoy/Rosalind/tree/main/Mendel's%20First%20Law)
+- PROT: Translating RNA into Protein [Problem](https://rosalind.info/problems/prot/) [Solution](https://github.com/ShaswataRoy/Rosalind/tree/main/Translating%20RNA%20into%20Protein)
 
