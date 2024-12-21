@@ -1,8 +1,9 @@
-# Rosalind
-
-My solutions to Rosalind Problems
+# Rosalind 
 ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/ShaswataRoy/Rosalind)
 ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/ShaswataRoy/Rosalind/biopython)
+
+My solutions to Rosalind Problems. For each of these problems change the .txt file to the one given as input.
+
 
 ## My Profile
 You can checkout my profile here: https://rosalind.info/users/Shaswata/
