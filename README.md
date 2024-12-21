@@ -9,8 +9,9 @@
 
 My solutions to Rosalind Problems. For each of these problems change the .txt file to the one given as input. For example to run the Counting DNA Nucleotides problem type:
 
-`python DNA.py -f rosalind_dna.txt`
+`python DNA.py -f rosalind_dna.txt > solution_dna.txt`
 
+This will create a new file `solution_dna.txt` in the problem folder with the result.
 
 ## My Profile
 You can checkout my profile here: https://rosalind.info/users/Shaswata/
