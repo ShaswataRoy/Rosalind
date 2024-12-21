@@ -13,7 +13,6 @@ My solutions to Rosalind Problems. For each of these problems change the .txt fi
 
 This will create a new file `solution_dna.txt` in the problem folder with the result.
 
-## My Profile
 You can checkout my profile here: https://rosalind.info/users/Shaswata/
 
 ## Problems and Solutions
