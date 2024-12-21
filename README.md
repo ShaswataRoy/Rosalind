@@ -30,4 +30,8 @@ You can checkout my profile here: https://rosalind.info/users/Shaswata/
 - SUBS: Finding a Motif in DNA [Problem](https://rosalind.info/problems/subs/) [Solution](https://github.com/ShaswataRoy/Rosalind/tree/main/Finding%20a%20Motif%20in%20DNA)
 - CONS: Consensus and Profile [Problem](https://rosalind.info/problems/cons/) [Solution](https://github.com/ShaswataRoy/Rosalind/tree/main/Consensus%20and%20Profile)
 - FIBD: Mortal Fibonacci Rabbits [Problem](https://rosalind.info/problems/fibd/) [Solution](https://github.com/ShaswataRoy/Rosalind/tree/main/Mortal%20Fibonacci%20Rabbits)
-
+- GRPH: Overlap Graphs [Problem](https://rosalind.info/problems/grph/) [Solution](https://github.com/ShaswataRoy/Rosalind/tree/main/Overlap%20Graphs)
+- IEV: Calculating Expected Offspring [Problem](https://rosalind.info/problems/iev/) [Solution](https://github.com/ShaswataRoy/Rosalind/tree/main/Calculating%20Expected%20Offspring)
+- LCSM: Finding a Shared Motif [Problem](https://rosalind.info/problems/lcsm/) [Solution](https://github.com/ShaswataRoy/Rosalind/tree/main/Finding%20a%20Shared%20Motif)
+- LIA: Independent Alleles [Problem](https://rosalind.info/problems/lia/) [Solution](https://github.com/ShaswataRoy/Rosalind/tree/main/Independent%20Alleles)
+- MPRT: Finding a Protein Motif [Problem](https://rosalind.info/problems/mprt/) [Solution](https://github.com/ShaswataRoy/Rosalind/tree/main/Finding%20a%20Protein%20Motif)
