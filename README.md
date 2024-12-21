@@ -27,4 +27,7 @@ You can checkout my profile here: https://rosalind.info/users/Shaswata/
 - HAMM: Counting Point Mutations [Problem](https://rosalind.info/problems/hamm/) [Solution](https://github.com/ShaswataRoy/Rosalind/tree/main/Counting%20Point%20Mutations)
 - IPRB: Mendel's First Law [Problem](https://rosalind.info/problems/iprb/) [Solution](https://github.com/ShaswataRoy/Rosalind/tree/main/Mendel's%20First%20Law)
 - PROT: Translating RNA into Protein [Problem](https://rosalind.info/problems/prot/) [Solution](https://github.com/ShaswataRoy/Rosalind/tree/main/Translating%20RNA%20into%20Protein)
+- SUBS: Finding a Motif in DNA [Problem](https://rosalind.info/problems/subs/) [Solution](https://github.com/ShaswataRoy/Rosalind/tree/main/Finding%20a%20Motif%20in%20DNA)
+- CONS: Consensus and Profile [Problem](https://rosalind.info/problems/cons/) [Solution](https://github.com/ShaswataRoy/Rosalind/tree/main/Consensus%20and%20Profile)
+- FIBD: Mortal Fibonacci Rabbits [Problem](https://rosalind.info/problems/fibd/) [Solution](https://github.com/ShaswataRoy/Rosalind/tree/main/Mortal%20Fibonacci%20Rabbits)
 
