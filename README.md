@@ -7,7 +7,9 @@
 ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/ShaswataRoy/Rosalind)
 ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/ShaswataRoy/Rosalind/biopython)
 
-My solutions to Rosalind Problems. For each of these problems change the .txt file to the one given as input.
+My solutions to Rosalind Problems. For each of these problems change the .txt file to the one given as input. For example to run the Counting DNA Nucleotides problem type:
+
+`python DNA.py -f rosalind_dna.txt`
 
 
 ## My Profile
